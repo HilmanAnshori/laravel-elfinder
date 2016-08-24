@@ -12,7 +12,7 @@
     "repositories": [
     {
         "type": "vcs",
-        "url": "https://github.com/HilmanAnshori/elFinder.git"
+        "url": "https://github.com/HilmanAnshori/elFinder"
     }
     ],
     "require": {
