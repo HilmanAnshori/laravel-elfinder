@@ -11,12 +11,8 @@
     ],
     "repositories": [
     {
-<<<<<<< HEAD
         "type": "git",
-=======
-        "type": "vcs",
->>>>>>> refs/remotes/origin/master
-        "url": "https://github.com/HilmanAnshori/elFinder"
+        "url": "https://github.com/HilmanAnshori/elFinder.git"
     }
     ],
     "require": {
