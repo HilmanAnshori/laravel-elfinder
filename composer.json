@@ -22,7 +22,6 @@
     "require": {
         "php": ">=5.4.0",
         "illuminate/support": "5.0.x|5.1.x|5.2.x|5.3.x",
-        "barryvdh/elfinder-flysystem-driver": "dev-hilman-blog",
         "league/flysystem": "^1.0",
         "league/flysystem-cached-adapter": "^1.0"
     },
